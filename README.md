@@ -1,2 +1,2 @@
 # Hackerearth contest details fetcher
-Its a Python scripts to fetch details of upcoming contest on hackerearth using Selenium library web scraping.
+Python(Selenium Library) script to fetch details of upcoming, past, and present contests from Hackerearth
